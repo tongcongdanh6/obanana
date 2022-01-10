@@ -1,0 +1,45 @@
+
+
+.device-wrapper {
+    width: 800px;
+    max-width: 900px;
+}
+
+.device-wrapper-2 {
+    width: 240px;
+    max-width: 600px;
+}
+
+.bg_image--1 {
+    background-image: url(../images/bg/bg-image-1.jpeg) !important;
+    /* max-height: 1080px; */
+    /* object-fit: cover; */
+}
+
+.bg_image--2 {
+    background-image: url(../images/bg/bg-image-2.jpeg) !important;
+}
+
+.bg_fixed {
+    background-attachment: fixed;
+}
+
+.single-tab-content p {
+    font-weight: 400;
+}
+
+.bg-green-light {
+    background-color: #00601b23;
+}
+
+.bg_color--6 {
+    background-color: #052203;
+}
+
+.footer-area .logo a img {
+    max-height: 200px;
+}
+
+.footer {
+    color: #fff;
+}
